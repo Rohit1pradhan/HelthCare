@@ -12,5 +12,6 @@ python manage.py runserver
 ```
 
 ## Some ScreenShorts For The Beter Understanding below:
+![1](https://github.com/Rohit1pradhan/HelthCare/assets/130276063/c17f944b-496a-4117-bcf9-525e543665fa)
 
 
