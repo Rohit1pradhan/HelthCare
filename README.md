@@ -1,4 +1,5 @@
 ## Django REST Framework  HealthCare Project
+## this is an project where you can register yourself and provide some information like youe medicine and there time shadule and this will provide you the reminder for that and it will also provide a alart for your regular helth chackup and the medicine stock and it have multipl functionality similer to this.
 
 
 ## To Run this Project follow below:
